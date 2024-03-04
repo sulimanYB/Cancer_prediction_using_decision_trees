@@ -7,6 +7,10 @@ Using only two features; namely, the mean radius of the tumor (radius_mean) and 
 Using all the features, predict whether a tumor is malignant or benign:
 * Using adaBoost and Bagging
 
+Using all the features, predict whether a tumor is malignant or benign:
+* Using GridSearch to tune the hyperparameters of the Decesion Tree
+
+
 The directory structure: 
 
 ```
