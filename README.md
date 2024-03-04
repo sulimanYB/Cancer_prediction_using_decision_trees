@@ -1,8 +1,11 @@
-# Cancer Prediction - Using Two Features
+# Cancer Prediction
 
 Using only two features; namely, the mean radius of the tumor (radius_mean) and its mean number of concave points (concave points_mean), predict whether a tumor is malignant or benign:
 * Using Decision Trees, comparing entropy and gini as criteria
 * Using a voting classifier (logistic regression, decision trees and KNN)
+
+Using all the features, predict whether a tumor is malignant or benign:
+* Using adaBoost and Bagging
 
 The directory structure: 
 
